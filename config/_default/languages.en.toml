@@ -12,14 +12,14 @@ title = "Muntasir Islam"
   logo = "logo.png"
   secondaryLogo = "img/secondary-logo.png"
   description = "My awesome website"
-  copyright = "&copy;2024  All Right reserved "
+  copyright = "Muntasir Islam &copy;2024  All Right reserved "
 
 [params.author]
   name = "Muntasir Islam"
   email = "muntarockz@gmail.com"
   image = "profile-pic.png"
   imageQuality = 96
-   headline = "Passionate Learner and Robotics Enthusiast "
+   headline = "Freelance SEO Consultant In Bangladesh (Dinajpur)"
    bio = "Hello, This is Muntasir Islam. Who love to share knowladge and learn new technology in the era of Digitallization."
   links = [
      { email = "mailto:muntarockz@gmail.com" },
