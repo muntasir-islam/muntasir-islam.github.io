@@ -20,7 +20,11 @@ title = "Muntasir Islam"
   image = "profile-pic.png"
   imageQuality = 96
    headline = "Freelance SEO Consultant In Bangladesh (Dinajpur)"
-   bio = "Hello, This is Muntasir Islam. Who love to share knowladge and learn new technology in the era of Digitallization."
+   bio = "My name is Muntasir Islam. I'm a freelance SEO consultant delivering exceptional results for brands and marketing agencies. I am based in Dinajpur but work with businesses across the World.
+
+I pursue a people-first approach to SEO, which I believe is in the best interest of your customers, search engines and ultimately your business goals.
+
+Although there are many intricacies to SEO, the best results come with a simple, no-BS approach."
   links = [
      { email = "mailto:muntarockz@gmail.com" },
     { link = "https://link-to-some-website.com/" },
