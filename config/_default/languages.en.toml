@@ -27,7 +27,7 @@ I pursue a people-first approach to SEO, which I believe is in the best interest
 Although there are many intricacies to SEO, the best results come with a simple, no-BS approach."
   links = [
      { email = "mailto:muntarockz@gmail.com" },
-    { link = "https://link-to-some-website.com/" },
+#     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
