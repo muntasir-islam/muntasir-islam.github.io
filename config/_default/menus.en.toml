@@ -5,24 +5,24 @@
 #   pageRef = The identifier of the page or section to link to
 
 [[main]]
- name = "Root"
+ name = "Home"
  pageRef = "/"
  weight = 1
 
 [[main]]
- name = "About"
- pageRef = "/about"
+ name = "Projects"
+ pageRef = "/projects"
  weight = 5
 
 [[main]]
- name = "Services"
- pageRef = "/Services"
+ name = "Case Study"
+ pageRef = "/case-study"
  weight = 10
 
 
 [[main]]
- name = "Portfolio"
- pageRef = "/Portfolio"
+ name = "Services"
+ pageRef = "/services"
  weight = 15
 
 [[main]]
@@ -30,10 +30,10 @@
  pageRef = "/posts"
  weight = 20
 
- [[main]]
- name = "Case Study"
- pageRef = "/case-study"
- weight = 25
+# [[main]]
+# name = "Case Study"
+# pageRef = "/case-study"
+# weight = 25
 
 #[[main]]
 # name = "Cert"
