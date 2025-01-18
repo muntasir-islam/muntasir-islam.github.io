@@ -26,7 +26,6 @@
   {{ with .Params.robots }}
   <meta name="robots" content="{{ . }}" />
   {{ end }}
-  <link rel="stylesheet" href="/css/custom.css">
   <link rel="canonical" href="{{ .Permalink }}" />
   {{ range .AlternativeOutputFormats -}}
   {{ printf `
