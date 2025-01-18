@@ -3,12 +3,11 @@ title: "Contact Me"
 date: 2025-01-18
 ---
 
-# Contact Me
 
 Have questions or want to work together? Feel free to reach out using the form below!
 
 <form method="POST" action="https://formspree.io/f/xqaavaaj">
-  <label for="name">**Name:**</label><br>
+  <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" placeholder="Your name" required><br><br>
   
   <label for="email">**Email:**</label><br>
