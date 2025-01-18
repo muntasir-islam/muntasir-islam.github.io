@@ -44,6 +44,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "cover.webp" # used in: hero, and card
+  description = "I am an experienced SEO consultant specializing in on-page optimization, link building, and content strategy. Let me help you rank higher on search engines."
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
