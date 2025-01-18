@@ -1,7 +1,6 @@
 ---
 title: "Contact Me"
 date: 2025-01-18
-layout: "contact"  # Use this if your theme supports a custom contact layout
 ---
 
 # Contact Me
