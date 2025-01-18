@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Projects"
 draft: false
 searchHidden: false
 ShowToc: true
@@ -13,7 +13,6 @@ date: 2024-09-08 T11:12:51+06:00
 # weight: 1
 ---
 
-# Muntasir Islam's Portfolio
 
 Welcome to my portfolio! Here you'll find a showcase of my work in **SEO**, **WordPress Design**, and **Digital Marketing**. Each project highlights the skills, tools, and strategies I've used to deliver results for my clients.
 
