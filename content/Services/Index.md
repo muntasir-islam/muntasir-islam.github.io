@@ -4,7 +4,6 @@ date: 2025-01-18
 layout: "services"
 ---
 
-# SEO Services That Drive Results
 
 As a dedicated SEO consultant, I help businesses improve their online visibility, attract quality traffic, and increase conversions. With proven strategies tailored to your goals, I can help your website rank higher on search engines and deliver measurable results.
 
