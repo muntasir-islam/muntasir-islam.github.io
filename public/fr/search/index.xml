@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Searches on Muntasir Islam</title>
-    <link>http://localhost:1313/fr/search/</link>
+    <link>https://muntasir-islam.github.io/fr/search/</link>
     <description>Recent content in Searches on Muntasir Islam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/fr/search/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate><atom:link href="https://muntasir-islam.github.io/fr/search/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Search Results</title>
-      <link>http://localhost:1313/fr/search/</link>
+      <link>https://muntasir-islam.github.io/fr/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>http://localhost:1313/fr/search/</guid>
+      <guid>https://muntasir-islam.github.io/fr/search/</guid>
       <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
 &lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
 &lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;

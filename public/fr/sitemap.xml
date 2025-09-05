@@ -2,95 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/search/</loc>
+    <loc>https://muntasir-islam.github.io/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://muntasir-islam.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/search/"
+                href="https://muntasir-islam.github.io/fr/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/search/</loc>
+    <loc>https://muntasir-islam.github.io/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://muntasir-islam.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/search/"
+                href="https://muntasir-islam.github.io/fr/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>https://muntasir-islam.github.io/fr/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://muntasir-islam.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://muntasir-islam.github.io/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/notes/</loc>
+    <loc>https://muntasir-islam.github.io/fr/notes/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/notes/"
+                href="https://muntasir-islam.github.io/notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/notes/"
+                href="https://muntasir-islam.github.io/fr/notes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/search/</loc>
+    <loc>https://muntasir-islam.github.io/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://muntasir-islam.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/search/"
+                href="https://muntasir-islam.github.io/fr/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>https://muntasir-islam.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://muntasir-islam.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://muntasir-islam.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>https://muntasir-islam.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://muntasir-islam.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://muntasir-islam.github.io/fr/tags/"
                 />
   </url>
 </urlset>
