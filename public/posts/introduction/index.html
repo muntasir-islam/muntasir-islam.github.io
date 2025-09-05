@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <title>Posts</title>
+    <title>Introduction</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -13,7 +13,6 @@
 
 
 
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/posts/index.xml" title="Muntasir Islam">
 
 
 
@@ -28,7 +27,10 @@
 <meta property="og:image" content="/">
 <meta property="og:url" content="http://localhost:1313/">
 
-     
+    
+<meta name="description" content="Introduction to Sample Post" />
+
+
 
     
 
@@ -51,7 +53,7 @@ document.documentElement.setAttribute('data-theme', theme)
     
   </head>
 
-  <body class="type-posts kind-section" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
+  <body class="type-posts kind-page" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="80">
     <div class="container-fluid bg-secondary wrapper">
       
       
@@ -161,11 +163,6 @@ document.documentElement.setAttribute('data-theme', theme)
 
       
       
-  
-  
-    
-  
-
   <section class="sidebar-section" id="sidebar-section">
     <div class="sidebar-holder">
       <div class="sidebar" id="sidebar">
@@ -174,16 +171,19 @@ document.documentElement.setAttribute('data-theme', theme)
         </form>
         <div class="sidebar-tree">
           <ul class="tree" id="tree">
-            <li id="list-heading"><a href="/posts" data-filter="all">Posts</a></li>
+            <li id="list-heading"><a href="/posts/" data-filter="all">Posts</a></li>
             <div class="subtree">
                 
   
   
   
   
+    
+    
+  
   
     
-    <li><a class=" list-link" href="/posts/introduction/" title="Introduction">Introduction</a></li>
+    <li><a class="active list-link" href="/posts/introduction/" title="Introduction">Introduction</a></li>
   
 
 
@@ -198,51 +198,124 @@ document.documentElement.setAttribute('data-theme', theme)
       
       
 <section class="content-section" id="content-section">
-  <div class="content container-fluid" id="content">
-    <div class="container-fluid post-card-holder" id="post-card-holder">
+  <div class="content">
+    <div class="container p-0 read-area">
       
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(/posts/introduction/hero.svg);'>
+      </div>
+
       
-      
-      
+      <div class="page-content">
         
-          <div class="post-card">
-  <div class="card">
-    <div class="card-head">
-      <a href="/posts/introduction/" class="post-card-link">
-        <img class="card-img-top" src='/posts/introduction/hero.svg' alt="Hero Image">
-      </a>
-    </div>
-    <div class="card-body">
-      <a href="/posts/introduction/" class="post-card-link">
-        <h5 class="card-title">Introduction</h5>
-        <p class="card-text post-summary">Greeting! This is an introduction post. This post tests the followings:
-Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file. </p>
-      </a>
-      
-    </div>
-    <div class="card-footer">
-      <span class="float-start">
-          Monday, June 8, 2020
-          </span>
-      <a
-      href="/posts/introduction/"
-      class="float-end btn btn-outline-info btn-sm">Read</a>
-    </div>
-  </div>
-</div>
+        <div class="author-profile ms-auto align-self-lg-center">
+          <img class="rounded-circle" src='/images/default-avatar_hu_af7c48c7ef93202f.png' alt="Author Image">
+          <h5 class="author-name">John Doe</h5>
+          <p class="text-muted">Monday, June 8, 2020</p>
+        </div>
+        
+
+        <div class="title">
+          <h1>Introduction</h1>
+        </div>
 
         
+
+        
+        <div class="post-content" id="post-content">
+          <p>Greeting! This is an introduction post. This post tests the followings:</p>
+<ul>
+<li>Hero image is in the same directory as the post.</li>
+<li>This post should be at top of the sidebar.</li>
+<li>Post author should be the same as specified in <code>author.yaml</code> file.</li>
+</ul>
+
+        </div>
+
+        
+        <div class="row ps-3 pe-3">
+        
+          <div class="col-md-6 share-buttons">
+          
+          </div>
+
+        
+        
+          
+            
+          
+          <div class="col-md-6 btn-improve-page">
+             
+               <a href="https://github.com/hugo-toha/hugo-toha.github.io/edit/main/content/posts%5cintroduction%5cindex.md" title="Improve this page" target="_blank" rel="noopener">
+            
+                <i class="fas fa-code-branch"></i>
+                Improve this page
+              </a>
+          </div>
+        
+        </div>
+
+
+
       
-    </div>
-    <div class="paginator">
+      <hr />
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+    
+    
+  
+  
+
+
+<div class="row next-prev-navigator">
+  
+  
+</div>
+
+      <hr />
+
       
+      
+
+      
+      
+
+      </div>
     </div>
   </div>
+  
+  <a id="scroll-to-top" class="btn" type="button" data-bs-toggle="tooltip" data-bs-placement="left" title="Scroll to top">
+    <i class="fas fa-chevron-circle-up"></i>
+  </a>
 </section>
 
 
       
-       
+      
+  <section class="toc-section" id="toc-section">
+    
+    <div class="toc-holder">
+      <h5 class="text-center ps-3">Table of Contents</h5>
+      <hr>
+      <div class="toc">
+        <nav id="TableOfContents"></nav>
+      </div>
+    </div>
+    
+  </section>
+
     </div>
 
     

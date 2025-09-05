@@ -104,8 +104,33 @@
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
+    <loc>http://localhost:1313/categories/basic/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/basic/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/introduction/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/multi-lingual/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -115,6 +140,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -143,20 +184,6 @@
                 href="http://localhost:1313/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-  </url><url>
     <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
     <xhtml:link
@@ -168,18 +195,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/search/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
