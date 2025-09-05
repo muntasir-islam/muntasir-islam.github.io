@@ -1,0 +1,77 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+
+projects:
+- name: Kubernetes
+  logo: 
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Production-Grade Container Scheduling and Management .
+  tags: ["professional", "kubernetes", "cloud"]
+
+projects:
+- name: Kubernetes
+  logo: 
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Production-Grade Container Scheduling and Management .
+  tags: ["professional", "kubernetes", "cloud"]
+projects:
+- name: Kubernetes
+  logo: 
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Production-Grade Container Scheduling and Management .
+  tags: ["professional", "kubernetes", "cloud"]
+projects:
+- name: Kubernetes
+  logo: 
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Production-Grade Container Scheduling and Management .
+  tags: ["professional", "kubernetes", "cloud"]
+projects:
+- name: Kubernetes
+  logo: 
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Production-Grade Container Scheduling and Management .
+  tags: ["professional", "kubernetes", "cloud"]
+projects:
+- name: Kubernetes
+  logo: 
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Production-Grade Container Scheduling and Management .
+  tags: ["professional", "kubernetes", "cloud"]
