@@ -59,5 +59,8 @@
     "postcss-cli": "^11.0.0"
   },
   "name": "muntasir-islam.github.io",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "dependencies": {
+    "cytoscape": "^3.33.1"
+  }
 }
