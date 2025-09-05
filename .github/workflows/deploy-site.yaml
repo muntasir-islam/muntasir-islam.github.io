@@ -37,8 +37,8 @@ jobs:
       with:
     node-version: '18'
 
-- name: Install npm dependencies
-  run: npm ci
+    - name: Install npm dependencies
+      run: npm ci
 
     - name: Build
       run: hugo --minify
