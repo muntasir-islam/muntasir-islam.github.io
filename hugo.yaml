@@ -1,4 +1,5 @@
-baseURL: https://muntasir-islam.github.io
+baseURL = "https://muntasir-islam.github.io/"
+
 
 languageCode: en-us
 title: "Muntasir Islam"
