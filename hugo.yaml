@@ -2,7 +2,6 @@ baseURL: https://muntasir-islam.github.io
 
 languageCode: en-us
 title: "Muntasir Islam"
-theme: toha
 # Use Hugo modules to add theme
 
 module:
