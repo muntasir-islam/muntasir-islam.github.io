@@ -54,7 +54,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/muntasir-islam/muntasir-islam.github.io
 
   features:
     # Enable portfolio section
