@@ -11,18 +11,18 @@ section:
 
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: BSC in Engineering (EEE)
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2022-2026 (Expected)
   institution:
-    name: ABC University of Technology
+    name: Daffodil International University
     url: "#"
     logo:  # Path of the logo image
     darkLogo:  #(optional), Can optionally show a different logo for dark theme
   grade: #(optional)
     scale: CGPA
-    achieved: 3.6
-    outOf: 4
+    achieved: 0.00
+    outOf: 0.00
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
@@ -42,7 +42,6 @@ degrees:
 
 
 
-degrees:
 - name: Ph.D in Quantum Cryptography
   icon: fa-microscope
   timeframe: 2016-2020

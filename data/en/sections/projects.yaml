@@ -30,7 +30,7 @@ projects:
   summary: Production-Grade Container Scheduling and Management .
   tags: ["professional", "kubernetes", "cloud"]
 
-projects:
+
 - name: Kubernetes
   logo: 
   role: Contributor
@@ -39,7 +39,8 @@ projects:
   # url: ""
   summary: Production-Grade Container Scheduling and Management .
   tags: ["professional", "kubernetes", "cloud"]
-projects:
+
+
 - name: Kubernetes
   logo: 
   role: Contributor
@@ -48,7 +49,8 @@ projects:
   # url: ""
   summary: Production-Grade Container Scheduling and Management .
   tags: ["professional", "kubernetes", "cloud"]
-projects:
+
+
 - name: Kubernetes
   logo: 
   role: Contributor
@@ -57,7 +59,8 @@ projects:
   # url: ""
   summary: Production-Grade Container Scheduling and Management .
   tags: ["professional", "kubernetes", "cloud"]
-projects:
+
+
 - name: Kubernetes
   logo: 
   role: Contributor
@@ -66,7 +69,8 @@ projects:
   # url: ""
   summary: Production-Grade Container Scheduling and Management .
   tags: ["professional", "kubernetes", "cloud"]
-projects:
+
+
 - name: Kubernetes
   logo: 
   role: Contributor

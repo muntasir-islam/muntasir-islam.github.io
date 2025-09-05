@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Operations Manager
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Layek Academy
+  url: "https://layekacademy.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -25,11 +25,11 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "mailto:hello@muntasirislam.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/muntasir-islam"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -37,7 +37,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/muntasir-islam-seo/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -45,7 +45,7 @@ socialLinks:
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/muntasirislam.eee"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -68,7 +68,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
