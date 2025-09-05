@@ -61,3 +61,8 @@
   "name": "muntasir-islam.github.io",
   "version": "0.1.0"
 }
+{
+  "dependencies": {
+    "cytoscape": "^3.23.0",
+  }
+}
