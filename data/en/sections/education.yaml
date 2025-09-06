@@ -19,10 +19,10 @@ degrees:
     url: "#"
     logo:  # Path of the logo image
     darkLogo:  #(optional), Can optionally show a different logo for dark theme
-  grade: #(optional)
-    scale: CGPA
-    achieved:
-    outOf: 
+# grade: #(optional)
+#    scale: CGPA
+ #   achieved:
+  #  outOf: 
   publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   # url: "#"
