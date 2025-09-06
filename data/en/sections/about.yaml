@@ -55,13 +55,13 @@ badges:
   badge: "https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a2c792887e41486cbe07a058dacb9d0b.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  name: CompTIA Pentest+
+  url: "https://www.linkedin.com/in/muntasir-islam-seo/details/certifications/1725211433830/single-media-viewer?type=IMAGE&profileId=ACoAAD1gh1kBo1fGuJiQ72I7aJVpY3L59Dm1Vts&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B49gYMm%2BJRHe9mddhnwwRHA%3D%3D"
   badge: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VQYQUSYN8R.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  name: Red Teaming
+  url: "https://www.linkedin.com/in/muntasir-islam-seo/details/certifications/1725211719990/single-media-viewer?type=IMAGE&profileId=ACoAAD1gh1kBo1fGuJiQ72I7aJVpY3L59Dm1Vts&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B49gYMm%2BJRHe9mddhnwwRHA%3D%3D"
   badge: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-D94AYW6QXX.png"
 
 
