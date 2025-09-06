@@ -50,19 +50,20 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: HubSpot SEO II Certified
+  url: "https://app-na2.hubspot.com/academy/achievements/0v1d1wxn/en/1/muntasir-islam/seo-ii"
+  badge: "https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a2c792887e41486cbe07a058dacb9d0b.png"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  badge: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VQYQUSYN8R.png"
 
 - type: certification
   name: Artificial Intelligence and Machine Learning
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  badge: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-D94AYW6QXX.png"
+
 
 - type: soft-skill-indicator
   name: Leadership
