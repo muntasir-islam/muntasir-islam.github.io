@@ -10,113 +10,141 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Layek Academy
+    url: "https://layekacademy.com/"
+    location: Remote
     logo: 
     darkLogo:  #(optional), Can optionally show a different logo for dark theme
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Overseeing business operations and website management for an online freelancing training platform.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Operation Manager
+    start: Jan 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Manage website built with LMS system, optimize design and performance.
+    - Oversee business operations including HR, marketing campaign monitoring, and execution tracking.
+    - Coordinate with trainers to update course modules and ensure smooth delivery.
 
 
-experiences:
+
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Sanaf Marketing LLC
+    url: "https://sanafmarketing.com/"
+    location: Remote
     logo: 
     darkLogo:  #(optional), Can optionally show a different logo for dark theme
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Worked on local business SEO projects, focusing on audits, optimization, and visibility improvements.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: SEO Specialist
+    start: Feb 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: June 2025
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Conduct SEO audits and implement on-page, off-page, and technical SEO.
+    - Optimize multiple local business websites for Google rankings and visibility.
+    - Manage GMB optimization and prepare milestone-based action reports.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
-    experiences:
+
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: GetWpExpert
+    url: "https://getwpexpert.com/"
+    location: Remote
     logo: 
     darkLogo:  #(optional), Can optionally show a different logo for dark theme
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Supporting digital marketing efforts through engaging content creation and script writing.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Social Media & Content Writer
+    start: Jul 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Create engaging social media content for Facebook pages/groups.
+    - Write structured video scripts for UI/UX design courses.
+    - Develop content ideas for both short and long-form videos.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
-    experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: eShikhon Academy
+    url: "https://eshikhon.academy/"
+    location: Savar Branch
     logo: 
     darkLogo:  #(optional), Can optionally show a different logo for dark theme
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Directed operations and digital presence for one of the largest ed-tech platforms in Bangladesh.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Operations Manager
+    start: May 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Jan 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Managed business operations, HR, and student enrollment strategy.
+    - Designed and maintained WPLMS website and resolved technical issues.
+    - Oversaw social media platforms with 1M+ users and trained support teams.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+
+- company:
+    name: SEO’s Hut
+    url: "https://seoshut.com/"
+    location: Remote
+    logo: 
+    darkLogo:  #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Freelance role focusing on SEO audits, website improvements, and technical optimization.
+  positions:
+  - designation: Operations Manager
+    start: Jan 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: April 2024
+    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Fixed technical SEO errors using Ahrefs, Semrush, and Screaming Frog.
+    - Created SEO audit reports and content plans (monthly, bi-annual, annual).
+    - Maintained websites and optimized SEO strategies based on performance..
+
+- company:
+    name: Proshanti.online
+    url: "https://eshikhon.academy/"
+    location: Remote
+    logo: 
+    darkLogo:  #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Led the technical team and managed the online platform’s digital infrastructure.
+  positions:
+  - designation: Head of Tech
+    start: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Mar 2024
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Planned, designed, and maintained the website.
+    - Built and managed a skilled tech team to ensure professionalism.
+    - Brainstormed and implemented new digital strategies.
+
+- company:
+    name: LeadNav
+    url: ""
+    location: Remote
+    logo: 
+    darkLogo:  #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Supported the agency with lead generation, website design, and campaign execution.
+  positions:
+  - designation: Lead Generation Expert
+    start: Mar 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Jan 2023
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Generated leads based on client requirements.
+    - Designed and maintained the agency’s WordPress website.
+    - Planned and launched email campaigns to drive leads and sales.
+

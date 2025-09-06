@@ -12,33 +12,33 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: SEO
+- name: Search engine optimization (SEO)
   logo: 
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Skilled in on-page, off-page, and technical SEO, with a focus on improving local business visibility and driving organic growth."
+  url: ""
 
 - name: WordPress Design
   logo: 
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Experienced in designing and optimizing WordPress websites that are fast, responsive, and SEO-friendly."
+  url: ""
 
 - name: Business Operations
   logo: 
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Strong background in managing ed-tech platforms, streamlining workflows, and building strategies that improve efficiency and growth."
+  url: ""
 
 - name: Python
   logo: 
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Hands-on experience with Python programming for data analysis, automation, and research-based projects."
+  url: ""
 
 - name: Microcontroller
   logo: 
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Knowledge of microcontroller-based projects including robotics, sensors, and automation systems."
+  url: ""
 
 - name: Shopify SEO
   logo: 
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Specialized in optimizing Shopify stores for better rankings, higher conversions, and improved user experience."
+  url: ""
 
